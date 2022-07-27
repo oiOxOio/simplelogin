@@ -16,4 +16,4 @@
 > │   
 > │ gulpfile.js //用于项目压缩(可删)  
 > │  
-> │ package.json //gulp相关依赖(可删)  
+> └─ package.json //gulp相关依赖(可删)  
